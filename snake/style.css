@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+body{
+    display: flex;
+    height: 95vh;
+    width: 190vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgba(21, 100, 1, 0.938);
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 30px;
+}
+
+.footer{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+}
+
